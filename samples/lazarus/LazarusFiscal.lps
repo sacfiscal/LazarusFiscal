@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="LazarusFiscal.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="23" Y="13"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Samples.Lazarus.Main"/>
+        <CursorPos X="27" Y="12"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Delphiscal-master\samples\lazarus\src\samples.lazarus.main.pas"/>
+        <ComponentName Value="FrmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="249"/>
+        <CursorPos Y="268"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\LazarusFiscal.Utils.pas"/>
+        <UnitName Value="LazarusFiscal. Utils"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="7"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\LazarusFiscal.Pis.Base.pas"/>
+        <UnitName Value="LazarusFiscal. Pis.Base"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="23"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\LazarusFiscal.Cofins.Base.pas"/>
+        <UnitName Value="LazarusFiscal. Cofins.Base"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="23"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="src\samples.lazarus.main.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7974"/>
+        <CursorPos X="30" Y="7981"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Delphiscal-master\samples\lazarus\src\samples.lazarus.main.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7990"/>
+        <CursorPos X="40" Y="7992"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\LazarusFiscal.Icms30.pas"/>
+        <UnitName Value="LazarusFiscal. Icms30"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="22" Y="3"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\LazarusFiscal.Icms70.pas"/>
+        <UnitName Value="LazarusFiscal. Icms70"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="16">
+      <Position>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <Caret Line="15" Column="63"/>
+      </Position>
+      <Position>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <Caret Line="15" Column="60"/>
+      </Position>
+      <Position>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <Caret Line="255" Column="72" TopLine="236"/>
+      </Position>
+      <Position>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <Caret Line="298" Column="5" TopLine="262"/>
+      </Position>
+      <Position>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <Caret Line="276" Column="70" TopLine="256"/>
+      </Position>
+      <Position>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <Caret Line="317" Column="68" TopLine="290"/>
+      </Position>
+      <Position>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <Caret Line="357" Column="33" TopLine="346"/>
+      </Position>
+      <Position>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <Caret Line="273" Column="60" TopLine="259"/>
+      </Position>
+      <Position>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <Caret Line="307" Column="25" TopLine="300"/>
+      </Position>
+      <Position>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <Caret Line="341" Column="61" TopLine="305"/>
+      </Position>
+      <Position>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <Caret Line="438" Column="45" TopLine="424"/>
+      </Position>
+      <Position>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <Caret Line="465" Column="24" TopLine="430"/>
+      </Position>
+      <Position>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <Caret Line="452" Column="9" TopLine="446"/>
+      </Position>
+      <Position>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <Caret Line="470" Column="19" TopLine="461"/>
+      </Position>
+      <Position>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <Caret Line="272" Column="22" TopLine="266"/>
+      </Position>
+      <Position>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <Caret Line="105" Column="60" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="src\samples.lazarus.main.pas"/>
+        <Caret Line="12" Column="27"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
